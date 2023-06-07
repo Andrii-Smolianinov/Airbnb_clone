@@ -24,7 +24,7 @@ const RegisterModal = () => {
     defaultValues: {
       name: "",
       email: "",
-      passwold: "",
+      password: "",
     },
   });
 
